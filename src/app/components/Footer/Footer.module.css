@@ -1,0 +1,17 @@
+.cont{
+    border: 5px;
+    padding: 5px;
+    
+    background-color: rgb(3, 1, 22);
+    color: white;
+}
+.title{
+    
+    border: 5px;
+    margin: 10px;
+    margin-left: 850px;
+    margin-right: 600px;
+    padding: 5px;
+    display: inline;
+    
+}

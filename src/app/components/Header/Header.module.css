@@ -1,0 +1,25 @@
+.cont{
+    border: 5px;
+
+    padding: 2px;
+    
+    background-color: rgb(1, 10, 19);
+    color: white;
+}
+
+
+
+
+.title{
+
+   height: 60px;
+    border: 15px;
+    margin-left: 850px;
+    margin-right: 600px;
+    padding: 5px;
+    display: inline;
+    
+    justify-content: center;
+    text-align: center;
+
+}

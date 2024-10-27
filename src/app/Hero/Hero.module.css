@@ -1,0 +1,19 @@
+.main{
+    background-color: plum;
+    
+};
+
+    
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400vh; /* Full viewport height */
+    background-size: cover;
+    color: plum;
+    text-align: center;
+    padding:  20px; 
+}
+  
+  
